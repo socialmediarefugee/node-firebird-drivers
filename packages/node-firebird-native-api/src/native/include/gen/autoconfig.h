@@ -1,0 +1,1 @@
+/Users/dave/Projects/FrontEnd/firebird/src/include/gen/autoconfig.auto
